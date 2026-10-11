@@ -1,0 +1,6 @@
+{
+  "name": "Meu Dinheiro?",
+  "description": "Calculadora de impacto financeiro para hábitos e pequenos gastos recorrentes ao longo do tempo com metas de redução e histórico offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
